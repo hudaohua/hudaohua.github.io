@@ -1,0 +1,9 @@
+Note:
+1) In the front matter, should be careful about space. Add space immediately after the variable name:
+2) In the _config.yml, don't use tab for line alignment
+
+
+Git commands:
+1) git add --all
+2) git commit -m "comments"
+3) git push -u origin master

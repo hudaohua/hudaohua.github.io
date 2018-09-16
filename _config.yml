@@ -17,4 +17,4 @@ defaults:
     path: ""
   values:
     layout: "default"
-theme: Minimal
+theme: jekyll-theme-cayman
